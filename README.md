@@ -1,1 +1,1 @@
-##  Fraud Detection Using Arima
+##  Fraud Detection Using ARIMA
